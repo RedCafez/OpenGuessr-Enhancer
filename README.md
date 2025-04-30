@@ -41,7 +41,7 @@ Done.
 3. Click “Load Temporary Add-on”
 4. Select any file (like `manifest.json`)
 
-Note: It’ll get removed when you close Firefox  
+Note: It’ll get removed when you close Firefox.  
 
 ---
 
