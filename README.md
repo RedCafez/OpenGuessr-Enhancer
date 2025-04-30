@@ -24,7 +24,7 @@ Useful for debugging, map-making, or just satisfying your curiosity.
 5. Click **Load unpacked**
 6. Select the folder you extracted
 
-The extension should now appear in your toolbar. Pin it for easy access.
+The extension should now appear in your toolbar.
 
 ---
 
@@ -42,6 +42,5 @@ The extension should now appear in your toolbar. Pin it for easy access.
 
 ## Usage
 
-1. Start a game on [OpenGuessr](https://www.openguessr.com)
-2. Once the round loads, click the **OpenGuessr Enhancer** extension icon in your browser
-3. The exact location will be revealed, along with a small map preview
+1. Load [OpenGuessr](https://www.openguessr.com)
+2. The exact location will be revealed, along with an option to open the location in Google Maps.
