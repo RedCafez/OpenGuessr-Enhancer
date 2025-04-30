@@ -1,7 +1,6 @@
 # OpenGuessr Enhancer
 
 This extension shows you the exact location in [OpenGuessr](https://www.openguessr.com).  
-Useful if you're making maps, testing stuff, or just curious where the heck you are.
 
 ---
 
